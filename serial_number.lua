@@ -38,4 +38,4 @@ error("Invalid argument")
 end
 end
 
-ime.register_command("xh", "SerialNumber", "数字序号","alpha","输入数字，例如1,2,3")
+ime.register_command("sz", "SerialNumber", "数字序号","alpha","输入数字，例如1,2,3")
